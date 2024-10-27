@@ -1,0 +1,7 @@
+https://legacy.reactjs.org/docs/hooks-state.html  useState hooks
+https://react.dev/reference/react/useEffect useEffect hooks
+https://docs.expo.dev/versions/latest/sdk/pedometer/ pedometer (counting steps from phone)
+https://www.youtube.com/watch?v=LbitQCnppKw how I used secureStore to store and load data
+CHATGPT - I used help from chatgpt to load, store, sync and create HistoryScreen.js (load, store and show avg steps)
+CHATGPT - I also took help from chatgpt to create the buttons inside styles.css
+https://www.youtube.com/watch?v=VVoXcr18mdo Inspiration of similar step counter app (specifically filling circle)
