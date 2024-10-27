@@ -1,3 +1,11 @@
+# About the Step Counter App
+This React Native app is a step counter that tracks daily steps, displays progress toward a daily goal, and provides motivational quotes. The app allows users to view their step progress in a circular progress bar, set a custom daily step goal, and save their daily steps to a history log. Additionally, the app retrieves a daily motivational quote to inspire users on their fitness journey.
+
+Code Summary
+The app uses React Native's useState and useEffect hooks for managing state and side effects. The pedometer sensor, accessed via Expo, tracks steps, while the SecureStore API saves and retrieves the user's daily goal and step history securely. The app includes basic error handling to alert users of any issues with accessing sensors or storage. A circular progress indicator shows progress toward the daily goal, and several buttons allow users to reset steps, update goals, and view their history.
+
+This app is a straightforward step tracker with a user-friendly interface, designed to encourage daily activity.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
